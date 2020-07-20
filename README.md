@@ -2,7 +2,7 @@
 This repository consist of the web designs that I practise while learning.
 ***
 # 1️. Practise Design 1.0
-This folder consist of a portfolio design that I have learnt from scratch. Feel free to clone/download all the files and run the portfolio.html file to check the design. 
+This folder consist of a portfolio design that I have learnt from scratch. Feel free to clone/download all the files and run the portfolio.html file to check out the design. 
 
 
 ***
